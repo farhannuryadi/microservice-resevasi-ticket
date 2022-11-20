@@ -1,0 +1,6 @@
+
+G
+java:S1602.",Remove useless curly braces around statement(¿€”Äüÿÿÿÿ
+o
+java:S6204<"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(´­È8†ËõñÈ0
+V	java:S125>"<This block of commented-out lines of code should be removed.(•®îÑüÿÿÿÿ

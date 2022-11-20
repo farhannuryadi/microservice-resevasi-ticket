@@ -1,0 +1,7 @@
+
+\
+java:S2259-"FA "NullPointerException" could be thrown; "schedule" is nullable here.(Ñİ¾»
+p
+java:S1128"NRemove this unused import 'com.farhan.orderservice.dto.SeatAvailabelResponse'.(ŠØîüÿÿÿÿ8ÇŸúñÈ0
+`
+java:S1128"DRemove this unused import 'com.farhan.orderservice.dto.SeatReponse'.(ìÖÒ$8ÈŸúñÈ0

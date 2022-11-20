@@ -1,0 +1,14 @@
+
+o
+java:S1128"RRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnoreProperties'.(ô’ˆî8ÿÆÖßÇ0
+Q
+java:S1128	"5Remove this unused import 'javax.persistence.Column'.(ìûæH8ÁŒ×ßÇ0
+W
+java:S1128
+"5Remove this unused import 'javax.persistence.Entity'.(úƒßıûÿÿÿÿ8¶¨ÖßÇ0
+N
+java:S1128"1Remove this unused import 'javax.persistence.Id'.(ş¹ŞÜ8ßàÖßÇ0
+V
+java:S1128"4Remove this unused import 'javax.persistence.Table'.(˜øŒ“øÿÿÿÿ8€ÇÖßÇ0
+^
+java:S1128"BRemove this unused import 'javax.validation.constraints.NotEmpty'.(ÿÿör8ˆøÖßÇ0
