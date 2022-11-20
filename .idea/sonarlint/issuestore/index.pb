@@ -109,8 +109,6 @@ F
 studio-service/pom.xml,b\f\bf09b05141bdbc9c270a42d253639fbe44aa1e7c
 ‰
 Ydiscovery-server/src/main/java/com/farhan/discoveryserver/DiscoveryServerApplication.java,6\6\66c9de1c31ac1b975801c3691772a825552d53a3
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 
 Oorder-service/src/main/java/com/farhan/orderservice/config/WebClientConfig.java,b\1\b1e75491f03d20a81769fbe50da1392ebf798ef1
 ƒ

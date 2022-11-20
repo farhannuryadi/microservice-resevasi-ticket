@@ -20,14 +20,14 @@ import java.util.Date;
 @Service
 public class ShcedulerFilePdfGenerated {
 
-    @Scheduled(cron = "*/30 * * * * *")
+    @Scheduled(cron = "0 50 */23 * * *")
     public void pdfGenerated() throws FileNotFoundException {
-        String path = "D:\\Report.pdf";
+        SimpleDateFormat fmt = new SimpleDateFormat("yyyy-MM-dd");
+        String path = "D:\\Report"+fmt.format(new Date())+".pdf";
         PdfWriter pdfWriter = new PdfWriter(path);
         PdfDocument pdfDocument = new PdfDocument(pdfWriter);
         Document document = new Document(pdfDocument);
         pdfDocument.setDefaultPageSize(PageSize.A4);
-        SimpleDateFormat fmt = new SimpleDateFormat("yyyy-MM-dd");
 
         float col =560f;
         float columWidth[] = {col};

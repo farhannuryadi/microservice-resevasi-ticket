@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="film-service" />
         <module name="discovery-server" />
-        <module name="shceduler" />
         <module name="schedule-service" />
         <module name="studio-service" />
         <module name="api-gateway" />
@@ -18,6 +17,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="schedule2-service" target="17" />
+      <module name="shceduler" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
